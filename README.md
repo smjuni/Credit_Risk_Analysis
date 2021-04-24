@@ -1,5 +1,5 @@
 # Credit_Risk_Analysis
-Module 17- Supervised Machine Learning
+Supervised Machine Learning
 
 ## Overview of the Analysis
 The purpose of this analysis is to use various machine learning models to predict credit card loan risk. Credit card risk data is provided by the Lending office and is inherently unbalanced. We will use Random Oversampling, SMOTE, ClusterCentroids and SMOTEENN algorithms to resample the data and evaluate the results using logistic regression. We will also evaluate the data using two other ensemble learning algorithms: Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier to predict risk and compare all six algorithms for the best result.
